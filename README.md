@@ -2,7 +2,8 @@
 
 Copy from "https://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader" 
 
-This version is for .netcore platform
+This version is for .netcore platform  
+Nuget package  https://www.nuget.org/packages/CSVReader2/1.0.0
 
 ## It can be used for csv contains "," "\n" " special characters
 
