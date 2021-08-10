@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/cc5zhenhua/CSVReader</PackageProjectUrl>
+    <Copyright>https://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader</Copyright>
+    <RepositoryUrl>https://github.com/cc5zhenhua/CSVReader</RepositoryUrl>
+    <PackageTags>C# netcore</PackageTags>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>license.txt</PackageLicenseFile>
+    <PackageId>CSVReader2</PackageId>
+    <Authors>cc5zhenhua</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="license.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
