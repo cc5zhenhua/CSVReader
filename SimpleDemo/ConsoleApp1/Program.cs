@@ -10,23 +10,6 @@ using System.Text.RegularExpressions;
 
 namespace ConsoleApp1
 {
-
-
-    public class Foo
-    {
-        public string images;
-        public string product_handle;
-        public string state;
-        public string rating;
-        public string title;
-        public string author;
-        public string email;
-        public string location;
-        public string body;
-        public string reply;
-        public string created_at;
-        public string replied_at;
-    }
     class Program
     {
         static void Main(string[] args)
